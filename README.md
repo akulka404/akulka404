@@ -23,8 +23,8 @@ Hi,I'm Aniruddha Kulkarni! <img align="center" src="https://66.media.tumblr.com/
 
 - :bomb: Junior Software Engineer at [Trident Labs!](https://github.com/trident-labs-auv)
 - :guardsman: Backend Developer at [CSI VIT Pune!](https://github.com/csi-vitpune)
-- :speech_balloon: [LinkedIn] [Instagram] [Twitter] [Mail] 
-- 👯 PM @ [Script Winter of Code](www.swoc.tech)
+- :speech_balloon: Let's have a chat: :crystal_ball:[LinkedIn](https://www.linkedin.com/in/aniruddha-kulkarni1911/) :clubs:[Instagram](https://www.instagram.com/battcheeks/) :gem:[Mail](mailto:aniruddha.k1911@gmail.com)
+- :crown:Check out :information_desk_person:[Cryptogen!](https://pypi.org/project/cryptogen/) My OpenSource Python library based on reversible data hiding algorithms.
 - ✨ I'm into gaming,poetry and a cinema aficionado.
 -  🔭 **I’m currently working on**
 ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100)  ![](https://img.shields.io/badge/Web%20Development-%7C-red)    ![](https://img.shields.io/badge/C++-%7C-yellowgreen)   ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)

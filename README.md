@@ -1,7 +1,7 @@
 <h1 align="center">What's in the box? It's so good to be here! </h1>
-<code><center>Python Developer 👨‍💻 || OpenSource Contributor || Overthinker </center></code>
-
-
+<code>Python Developer 👨‍💻 || OpenSource Contributor || Overthinker </code>
+<br>
+<br>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aniruddha-kulkarni1911/)](https://www.linkedin.com/in/aniruddha-kulkarni1911/)
 [![Website Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/battcheeks)](https://github.com/battcheeks/)
@@ -18,11 +18,11 @@ Hi,I'm Aniruddha Kulkarni! <img align="center" src="https://66.media.tumblr.com/
 <img align="right" alt="GIF" src="https://camo.githubusercontent.com/6e2c2f5190c42e4ff6bbd45acf48536ef9bf9e95ad599c59473cf1c701236984/68747470733a2f2f737465656d6974696d616765732e636f6d2f3078302f68747470733a2f2f63646e2e6c6966656861636b65722e72752f77702d636f6e74656e742f75706c6f6164732f323031372f30312f657a6769662e636f6d2d63726f705f313438343536333835392e676966" />
 
 
-**About me:**
+:boom: **About me:** :boom:
 
 
-- :bomb: Junior Software Engineer at [Trident Labs!](https://www.codechef.com/users/rachitt_shah20)
-- 👯 Curious about everything,hit me up!
+- :bomb: Junior Software Engineer at [Trident Labs!](https://github.com/trident-labs-auv)
+- :guardsman: Backend Developer at [CSI VIT Pune!](https://github.com/csi-vitpune)
 - 📫 How to reach me: Any of the Social-Media Platforms.
 - 👯 PM @ [Script Winter of Code](www.swoc.tech)
 - ✨ I'm into gaming,poetry and a cinema aficionado.

@@ -23,7 +23,7 @@ Hi,I'm Aniruddha Kulkarni! <img align="center" src="https://66.media.tumblr.com/
 
 - :bomb: Junior Software Engineer at [Trident Labs!](https://github.com/trident-labs-auv)
 - :guardsman: Backend Developer at [CSI VIT Pune!](https://github.com/csi-vitpune)
-- 📫 How to reach me: Any of the Social-Media Platforms.
+- :speech_balloon: [LinkedIn] [Instagram] [Twitter] [Mail] 
 - 👯 PM @ [Script Winter of Code](www.swoc.tech)
 - ✨ I'm into gaming,poetry and a cinema aficionado.
 -  🔭 **I’m currently working on**

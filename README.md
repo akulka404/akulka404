@@ -27,7 +27,7 @@ Hi, I'm Aniruddha Kulkarni! <img align="center" src="https://66.media.tumblr.com
 - :crown:Check out :information_desk_person:[Cryptogen!](https://pypi.org/project/cryptogen/) My OpenSource Python library based on reversible data hiding algorithms.
 - ✨ I'm involved in projects based on Computer Vision and Image Processing!
 -  🔭 **I’m currently working on**
-![](https://img.shields.io/badge/Python-Full--Stack%20Dev-brightgreen)  ![](https://img.shields.io/badge/Web%20Development-Backend%20Dev-yellowd)    ![](https://img.shields.io/badge/C++-%7C-yellowgreen)   ![Open Source Love](https://img.shields.io/badge/Computer%20Vision-Python%2FC%2B%2B-orange)
+![](https://img.shields.io/badge/Python-Full--Stack%20Dev-brightgreen)  ![](https://img.shields.io/badge/Web%20Development-Backend%20Dev-yellowd)    ![Open Source Love](https://img.shields.io/badge/Computer%20Vision-Python%2FC%2B%2B-orange)
 
 <b>You can site my portfolio:<b> https://godslayer201.github.io/
 

@@ -1,5 +1,5 @@
 <h1 align="center">What's in the box? It's so good to be here! </h1>
-<code>Python Developer 👨‍💻 || OpenSource Contributor || Overthinker </code>
+<code><center>Python Developer 👨‍💻 || OpenSource Contributor || Overthinker </center></code>
 
 
 

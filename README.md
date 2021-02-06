@@ -44,8 +44,6 @@ Hi, I'm Aniruddha Kulkarni! <img align="center" src="https://66.media.tumblr.com
 <code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTYr8dpctWT8lQRZvwhaussxjRMg8Ao8HGJA&usqp=CAU"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg"></code>
 <code><img height="30" src="https://www.r-project.org/logo/Rlogo.svg"></code>
-
-<br>
 <br>
 
 ### Tools I use:

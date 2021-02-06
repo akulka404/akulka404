@@ -55,36 +55,10 @@ Hi, I'm Aniruddha Kulkarni! <img align="center" src="https://66.media.tumblr.com
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Python_and_Qt.svg"></code>
 <code><img height="30" src="https://cdn4.iconfinder.com/data/icons/small-n-flat/24/terminal-512.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg"></code>
 <br>
 
-### Areas Of Work:
 
-<code><img height="50" src="https://image.flaticon.com/icons/svg/2535/2535543.svg"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/1596/1596639.svg"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/944/944179.svg"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/2942/2942156.svg"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/2235/2235061.svg"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/3003/3003696.svg"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/2885/2885535.svg"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/3056/3056301.svg"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/3118/3118399.svg"></code>
-<code><img height="50" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/matlab_104289.png"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/1628/1628182.svg"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/png/512/2085/2085061.png"></code>
-
-
-
-
-**Stats :**  (https://gitstats.me/battcheeks)
-<br>
-
-<i> Note :</i>  These are not an indication of my skill level, just an overview of commits.
-
-[![Aniruddha's github stats](https://github-readme-stats.vercel.app/api?username=battcheeks)](https://github.com/battcheeks/github-readme-stats)
-
-
-<u><i><b> Feel free to fork this repo and apply this template for your own Github profile.Cheers!</i></b></u>
 
 
 

@@ -73,12 +73,12 @@ Hi,I'm Aniruddha Kulkarni! <img align="center" src="https://66.media.tumblr.com/
 
 
 
-**Stats :**  (https://gitstats.me/godslayer201)
+**Stats :**  (https://gitstats.me/battcheeks)
 <br>
 
 <i> Note :</i>  These are not an indication of my skill level, just an overview of commits.
 
-[![Rachitt's github stats](https://github-readme-stats.vercel.app/api?username=godslayer201)](https://github.com/godlsayer201/github-readme-stats)
+[![Aniruddha's github stats](https://github-readme-stats.vercel.app/api?username=battcheeks)](https://github.com/battcheeks/github-readme-stats)
 
 
 <u><i><b> Feel free to fork this repo and apply this template for your own Github profile.Cheers!</i></b></u>

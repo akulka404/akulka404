@@ -29,7 +29,7 @@ Hi, I'm Aniruddha Kulkarni! <img align="center" src="https://66.media.tumblr.com
 -  🔭 **I’m currently working on**
 ![](https://img.shields.io/badge/Python-Full--Stack-brightgreen)  ![](https://img.shields.io/badge/Web%20Development-Backend%20Dev-yellowd)    ![Open Source Love](https://img.shields.io/badge/Computer%20Vision-Python%2FC%2B%2B-orange)
 
-<b>You can site my portfolio:<b> https://godslayer201.github.io/
+<b>You can site my portfolio:<b> <code> Work in Progress! </code>
 
  
 

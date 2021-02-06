@@ -56,9 +56,7 @@ Hi, I'm Aniruddha Kulkarni! <img align="center" src="https://66.media.tumblr.com
 <code><img height="30" src="https://static.djangoproject.com/img/logos/django-logo-negative.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Python_and_Qt.svg"></code>
-
-
-<br>
+<code><img height="30" src="https://cdn4.iconfinder.com/data/icons/small-n-flat/24/terminal-512.png"></code>
 <br>
 
 ### Areas Of Work:

@@ -58,6 +58,11 @@ Hi, I'm Aniruddha Kulkarni! <img align="center" src="https://66.media.tumblr.com
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg"></code>
 <br>
 
+### Hardware I use:
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/RaspberryPi_4_Model_B.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/7/74/ArduinoUno.svg"></code>
+
+
 
 
 

@@ -17,7 +17,7 @@ Hi, I'm Aniruddha Kulkarni! <img align="center" src="https://66.media.tumblr.com
 <img align="right" alt="GIF" src="https://thumbs.gfycat.com/AlarmedRepentantFlee-small.gif" />
 
 
-:boom: **About me:** :boom:
+<!--:boom: **About me:** :boom:
 
 
 - :bomb: Junior Software Engineer at [Trident Labs!](https://github.com/trident-labs-auv)
@@ -28,7 +28,7 @@ Hi, I'm Aniruddha Kulkarni! <img align="center" src="https://66.media.tumblr.com
 -  🔭 **I’m currently working on**
 ![](https://img.shields.io/badge/Python-Full--Stack-brightgreen)  ![](https://img.shields.io/badge/Web%20Dev-Backend%20Dev-yellowd)    ![Open Source Love](https://img.shields.io/badge/Computer%20Vision-Python%2FC%2B%2B-orange)
 
-<b>You can site my portfolio:<b> <code> Work in Progress! </code>
+<b>You can site my portfolio:<b> <code> Work in Progress! </code> -->
 
  
 

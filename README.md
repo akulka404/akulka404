@@ -3,7 +3,7 @@
 <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aniruddha-kulkarni1911/)](https://www.linkedin.com/in/aniruddha-kulkarni1911/)
-[![Website Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/battcheeks)](https://github.com/battcheeks/)
+[![Website Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/akulk404)](https://github.com/akulka404/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/battcheeks/)](https://www.instagram.com/battcheeks/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoColor=white&link=mailto:aniruddha.k1911@gmail.com)](mailto:aniruddha.k1911@gmail.com)
 <br>

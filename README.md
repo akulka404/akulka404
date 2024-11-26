@@ -8,8 +8,6 @@
   <a href="mailto:aniruddha.k1911@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
 </p>
 
-![Star Wars GIF]([![Star Wars GIF](https://raw.githubusercontent.com/akulka404/akulka404/main/tenor.gif)])
-
 ---
 
 ### 🚀 About Me:
@@ -79,3 +77,9 @@
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-Scikit-learn.svg" alt="scikit-learn"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch"></code>
 
+<br>
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/akulka404/akulka404/main/tenor.gif" alt="Star Wars GIF">
+</div>

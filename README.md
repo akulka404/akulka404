@@ -8,8 +8,7 @@
   <a href="mailto:aniruddha.k1911@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
 </p>
 
-![Star Wars GIF](https://tenor.com/view/star-wars-the-last-jedi-gif-10571657)
-
+![Star Wars GIF]([https://github.com/akulka404/akulka404/blob/main/tenor.gif])
 
 ---
 

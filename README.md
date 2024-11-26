@@ -8,7 +8,8 @@
   <a href="mailto:aniruddha.k1911@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
 </p>
 
-<div class="tenor-gif-embed" data-postid="10571657" data-share-method="host" data-aspect-ratio="2.08333" data-width="100%"><a href="https://tenor.com/view/star-wars-the-last-jedi-gif-10571657">Star Wars GIF</a>from <a href="https://tenor.com/search/star-gifs">Star GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![Star Wars GIF](https://c.tenor.com/your-gif-id.gif)
+
 
 ---
 

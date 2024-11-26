@@ -77,7 +77,7 @@
 ---
 
 ### 🌐 Let's Connect!
-- 💼 [Resume](https://github.com/trident-labs-auv)
+- 💼 [Resume](https://github.com/akulka404/akulka404/blob/main/Resume-Aniruddha%20Kulkarni.pdf)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/aniruddhark/)
 - 🖥️ [GitHub](https://github.com/akulka404)
 - 📧 [Email Me](mailto:akulka24@ncsu.edu)

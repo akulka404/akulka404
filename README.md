@@ -80,7 +80,7 @@
 - 💼 [Resume](https://github.com/trident-labs-auv)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/aniruddhark/)
 - 🖥️ [GitHub](https://github.com/akulka404)
-- 📧 [Email Me](mailto:aniruddha.k1911@gmail.com)
+- 📧 [Email Me](mailto:akulka24@ncsu.edu)
 
 ---
 

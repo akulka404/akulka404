@@ -8,7 +8,7 @@
   <a href="mailto:aniruddha.k1911@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
 </p>
 
-![Star Wars GIF]([https://github.com/akulka404/akulka404/blob/main/tenor.gif])
+![Star Wars GIF]([![Star Wars GIF](https://raw.githubusercontent.com/akulka404/akulka404/main/tenor.gif)])
 
 ---
 

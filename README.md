@@ -10,6 +10,13 @@
 
 ---
 
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akulka404&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akulka404&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ### 🚀 About Me:
 - 🌟 **Graduate Student in Computer Science** at **North Carolina State University** *(GPA: 3.56/4.0)*  
 - 🔧 Passionate about **Machine Learning**, **Natural Language Processing**, and **Predictive Analytics**.  

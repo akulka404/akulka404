@@ -12,7 +12,7 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akulka404&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+https://github-readme-streak-stats.herokuapp.com?user=akulka404&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&t=12345
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akulka404&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 

@@ -4,8 +4,12 @@
 <!-- ──────────────────────────────────────────────────────────────── -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=26&pause=1000&color=0AFFD4&center=true&vCenter=true&width=900&height=70&lines=%F0%9F%91%8B%20Hola!%20%7C%20Namaste!%20%7C%20Hello!;I'm%20Aniruddha%20Kulkarni;ML%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20AI%20Innovator" alt="typing header">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Montserrat&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=70&lines=%F0%9F%91%8B%20Hola!%20%7C%20Namaste!%20%7C%20Hello!;I'm%20Aniruddha%20Kulkarni;ML%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20AI%20Innovator"
+    alt="typing header"
+  />
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aniruddhark/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>

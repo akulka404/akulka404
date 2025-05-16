@@ -182,4 +182,4 @@ NC State Campus Enterprises (*Profile*, *Spotlight*) · VIT Pune *Compendium* ·
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake">
 </p>
 
-<p align="right"><sub>Last updated · May 2025</sub></p>
+<p align="center"><sub>Last updated · May 2025</sub></p>

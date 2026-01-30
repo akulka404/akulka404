@@ -31,6 +31,7 @@
 ## 📚 Table of Contents
 - [🚀 Quick Pitch](#quick-pitch)
 - [🪄 About Me](#about-me)
+- [📫 Let's Connect](#lets-connect)
 - [📈 GitHub Dashboards](#github-dashboards)
 - [💻 Skills & Tools](#skills--tools)
 - [🎓 Education](#education)
@@ -41,7 +42,6 @@
 - [🎓 Certifications](#certifications)
 - [🤝 Leadership & Outreach](#leadership--outreach)
 - [📰 Featured Articles](#featured-articles)
-- [📫 Let's Connect](#lets-connect)
 
 ---
 
@@ -66,6 +66,17 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/akulka404/akulka404/main/data/img/tenor.gif" width="560" alt="Star Wars hyperspace GIF">
 </p>
+
+---
+
+## 📫 Let's Connect
+|  |  |
+|---|---|
+| **Email** | aniruddha.k1911@gmail.com |
+| **Phone** | +1 (602) 413-0612 |
+| **Resume** | [Download PDF](https://raw.githubusercontent.com/akulka404/akulka404/main/data/resume/Resume_AniruddhaKulkarni.pdf) |
+| **LinkedIn** | [linkedin.com/in/aniruddhark](https://linkedin.com/in/aniruddhark) |
+| **GitHub** | [github.com/akulka404](https://github.com/akulka404) |
 
 ---
 
@@ -304,17 +315,6 @@ Designed a BERT and Faster R-CNN-powered derailment detection model for online c
 6. Smart Materials
 7. SQL Injection Attacks - A Comprehensive Overview
 8. Savitch's Theorem
-
----
-
-## 📫 Let's Connect
-|  |  |
-|---|---|
-| **Email** | aniruddha.k1911@gmail.com |
-| **Phone** | +1 (602) 413-0612 |
-| **Resume** | [Download PDF](https://raw.githubusercontent.com/akulka404/akulka404/main/data/resume/Resume_AniruddhaKulkarni.pdf) |
-| **LinkedIn** | [linkedin.com/in/aniruddhark](https://linkedin.com/in/aniruddhark) |
-| **GitHub** | [github.com/akulka404](https://github.com/akulka404) |
 
 ---
 

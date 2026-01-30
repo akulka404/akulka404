@@ -28,23 +28,6 @@
 
 ---
 
-## 📚 Table of Contents
-- [🚀 Quick Pitch](#quick-pitch)
-- [🪄 About Me](#about-me)
-- [📫 Let's Connect](#lets-connect)
-- [📈 GitHub Dashboards](#github-dashboards)
-- [💻 Skills & Tools](#skills--tools)
-- [🎓 Education](#education)
-- [💼 Professional Experience](#professional-experience)
-- [🌟 Signature Projects](#signature-projects)
-- [🏅 Honors & Accolades](#honors--accolades)
-- [📝 Publications & Conferences](#publications--conferences)
-- [🎓 Certifications](#certifications)
-- [🤝 Leadership & Outreach](#leadership--outreach)
-- [📰 Featured Articles](#featured-articles)
-
----
-
 ## 🚀 Quick Pitch
 > *I'm a passionate software engineer and data scientist, specializing in Machine Learning, NLP, and AI. With a strong technical foundation and a results-driven mindset, I thrive on building intelligent systems that solve real-world problems.*
 

@@ -64,14 +64,14 @@
 - 🎯 Proven track record in anomaly detection & computer vision systems
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akulka404/akulka404/main/tenor.gif" width="560" alt="Star Wars hyperspace GIF">
+  <img src="https://raw.githubusercontent.com/akulka404/akulka404/main/data/img/tenor.gif" width="560" alt="Star Wars hyperspace GIF">
 </p>
 
 ---
 
 ## 📈 GitHub Dashboards
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akulka404&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="stats">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=akulka404&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="stats"> -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=akulka404&theme=tokyonight&hide_border=true" height="165" alt="streak">
 </p>
 <p align="center">
@@ -312,7 +312,7 @@ Designed a BERT and Faster R-CNN-powered derailment detection model for online c
 |---|---|
 | **Email** | aniruddha.k1911@gmail.com |
 | **Phone** | +1 (602) 413-0612 |
-| **Résumé** | [Download PDF](https://github.com/akulka404/akulka404/blob/main/resume.pdf) |
+| **Résumé** | [Download PDF](https://github.com/akulka404/akulka404/blob/main/data/resume/resume.pdf) |
 | **LinkedIn** | [linkedin.com/in/aniruddhark](https://linkedin.com/in/aniruddhark) |
 | **GitHub** | [github.com/akulka404](https://github.com/akulka404) |
 

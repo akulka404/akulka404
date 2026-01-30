@@ -322,4 +322,4 @@ Designed a BERT and Faster R-CNN-powered derailment detection model for online c
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake">
 </p>
 
-<p align="right"><sub>Last updated · May 2025</sub></p>
+<p align="right"><sub>Last updated · January 2026</sub></p>

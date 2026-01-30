@@ -75,8 +75,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=akulka404&theme=tokyonight&hide_border=true" height="165" alt="streak">
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akulka404&theme=tokyonight&no-frame=true&column=7" alt="trophies">
-</p>
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=akulka404&theme=tokyonight&no-frame=true&column=7" alt="trophies">
+</p> -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akulka404&theme=tokyo-night&hide_border=true" alt="activity graph">
 </p>
@@ -312,7 +312,7 @@ Designed a BERT and Faster R-CNN-powered derailment detection model for online c
 |---|---|
 | **Email** | aniruddha.k1911@gmail.com |
 | **Phone** | +1 (602) 413-0612 |
-| **Résumé** | [Download PDF](https://github.com/akulka404/akulka404/blob/main/data/resume/resume.pdf) |
+| **Résumé** | [Download PDF](https://raw.githubusercontent.com/akulka404/akulka404/main/data/resume/resume.pdf) |
 | **LinkedIn** | [linkedin.com/in/aniruddhark](https://linkedin.com/in/aniruddhark) |
 | **GitHub** | [github.com/akulka404](https://github.com/akulka404) |
 

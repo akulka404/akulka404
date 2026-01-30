@@ -312,7 +312,7 @@ Designed a BERT and Faster R-CNN-powered derailment detection model for online c
 |---|---|
 | **Email** | aniruddha.k1911@gmail.com |
 | **Phone** | +1 (602) 413-0612 |
-| **Résumé** | [Download PDF](https://raw.githubusercontent.com/akulka404/akulka404/main/data/resume/resume.pdf) |
+| **Resume** | [Download PDF](https://raw.githubusercontent.com/akulka404/akulka404/main/data/resume/Resume_AniruddhaKulkarni.pdf) |
 | **LinkedIn** | [linkedin.com/in/aniruddhark](https://linkedin.com/in/aniruddhark) |
 | **GitHub** | [github.com/akulka404](https://github.com/akulka404) |
 

@@ -33,7 +33,7 @@
 
 | 🎓 Education | 🛠️ Core Focus | 🏆 Highlights |
 |--------------|--------------|---------------|
-| **M.S. Computer Science** — NC State (May 2025, GPA 3.43)<br>**B.Tech. Computer Engineering** — Pune University (May 2023, GPA 3.85) | Machine Learning · NLP · Generative AI · MLOps · FastAPI · Docker · AWS · PostgreSQL / MongoDB | 🥇 1st Place **Hack_NCState 2025**<br>🏆 *Hackiest Hack* **WarwickHACK 2021**<br>🥇 1st Place **HackHC 2021**<br>📦 Author on **PyPI**, presenter at **IEEE OCEANS** |
+| **M.S. Computer Science** — NC State (May 2025)<br>**B.Tech. Computer Engineering** — Pune University (May 2023) | Machine Learning · NLP · Generative AI · MLOps · FastAPI · Docker · AWS · PostgreSQL / MongoDB | 🥇 1st Place **Hack_NCState 2025**<br>🏆 *Hackiest Hack* **WarwickHACK 2021**<br>🥇 1st Place **HackHC 2021**<br>📦 Author on **PyPI**, presenter at **IEEE OCEANS** |
 
 ---
 
